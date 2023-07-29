@@ -11,4 +11,4 @@ const result = numbers.reduce((acc, num) => {
 
 console.log(result);
 
-//Explaination in README
+//Explaination - The reduce function was not properly written. It was corrected in the above code.
